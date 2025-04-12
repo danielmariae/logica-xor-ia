@@ -94,7 +94,7 @@ Os gráficos estão disponíveis no diretório `img/` e foram gerados com o [mat
 
 2. Execute o script:
    ```bash
-   python mlp_xor.py
+   python mlp_simples.py
    ```
 
 3. O console exibirá os resultados de cada experimento e as previsões da rede.
