@@ -1,8 +1,3 @@
-Perfeito! Aqui está o **README.md atualizado**, com a **estrutura de pastas corrigida** conforme solicitado: arquivos `.csv` ficam na pasta `files/` e imagens `.png` na pasta `img/`.
-
----
-
-```markdown
 # 🧠 MLP aplicada ao Problema Lógico XOR
 
 Este projeto consiste na implementação e experimentação de uma **Rede Neural Multicamadas (MLP)** para resolver o clássico **problema lógico XOR**, utilizando a linguagem **Python** e a biblioteca **NumPy**.
@@ -109,16 +104,16 @@ Os gráficos estão disponíveis no diretório `img/` e foram gerados com o [mat
 ## 🧾 Estrutura do Projeto
 
 ```
-├── mlp_xor.py               # Código principal da MLP
+├── mlp_simples.py            # Código principal da MLP
 ├── README.md
-├── img/
-│   ├── execucao1.png
-│   ├── execucao2.png
-│   ├── ...
-├── files/
-│   ├── execucao1.csv
-│   ├── execucao2.csv
-│   ├── ...
+├── results/
+│   ├── resultados.txt        # Saída resumida das execuções
+│   ├── files/                # Dados em CSV para gráficos
+│   │   ├── execucao1.csv
+│   │   ├── ...
+│   └── img/                  # Gráficos de erro por época (PNG)
+│       ├── execucao1.png
+│       ├── ...
 ```
 
 ---
@@ -137,4 +132,3 @@ Este projeto foi desenvolvido como parte da avaliação prática da disciplina *
 
 Autor: Lucas Daniel Rodrigues dos Santos 
 Curso: Sistemas de Informação – 6º Período  
-```
