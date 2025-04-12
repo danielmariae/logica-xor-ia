@@ -1,0 +1,91 @@
+Execução 1 - Neurônios: 2, Learning rate: 0.1, Épocas: 1000
+Época 0, Erro: 0.2714634464861135
+Época 500, Erro: 0.2500167235529182
+Entrada: [0 0], Saída Prevista: [1.]
+Entrada: [0 1], Saída Prevista: [1.]
+Entrada: [1 0], Saída Prevista: [1.]
+Entrada: [1 1], Saída Prevista: [1.]
+
+Execução 2 - Neurônios: 4, Learning rate: 0.01, Épocas: 5000
+Época 0, Erro: 0.2938986053705545
+Época 500, Erro: 0.2535688252411545
+Época 1000, Erro: 0.2499965809241422
+Época 1500, Erro: 0.24974677361192005
+Época 2000, Erro: 0.24970672787924414
+Época 2500, Erro: 0.2496787044942586
+Época 3000, Erro: 0.2496503126080452
+Época 3500, Erro: 0.2496205756331786
+Época 4000, Erro: 0.24958920806541707
+Época 4500, Erro: 0.24955594721633428
+Entrada: [0 0], Saída Prevista: [0.]
+Entrada: [0 1], Saída Prevista: [0.]
+Entrada: [1 0], Saída Prevista: [1.]
+Entrada: [1 1], Saída Prevista: [1.]
+
+Execução 3 - Neurônios: 6, Learning rate: 0.5, Épocas: 10000
+Época 0, Erro: 0.28641221560436464
+Época 500, Erro: 0.1537064957409543
+Época 1000, Erro: 0.03160975212050176
+Época 1500, Erro: 0.010403198209178479
+Época 2000, Erro: 0.005838163856770052
+Época 2500, Erro: 0.003982609936314277
+Época 3000, Erro: 0.002997228225653189
+Época 3500, Erro: 0.0023920292097540643
+Época 4000, Erro: 0.0019847481808167155
+Época 4500, Erro: 0.0016929061761672554
+Época 5000, Erro: 0.0014739965409342947
+Época 5500, Erro: 0.0013039786703157247
+Época 6000, Erro: 0.001168271074783274
+Época 6500, Erro: 0.0010575335063080756
+Época 7000, Erro: 0.0009655151146668062
+Época 7500, Erro: 0.0008878794525343407
+Época 8000, Erro: 0.0008215264025734871
+Época 8500, Erro: 0.0007641824808048202
+Época 9000, Erro: 0.0007141435070573528
+Época 9500, Erro: 0.0006701075215975707
+Entrada: [0 0], Saída Prevista: [0.]
+Entrada: [0 1], Saída Prevista: [1.]
+Entrada: [1 0], Saída Prevista: [1.]
+Entrada: [1 1], Saída Prevista: [0.]
+
+Execução 4 - Neurônios: 4, Learning rate: 0.1, Épocas: 10000
+Época 0, Erro: 0.2546628272454763
+Época 500, Erro: 0.25085466441981025
+Época 1000, Erro: 0.25027083005036177
+Época 1500, Erro: 0.2500790012862044
+Época 2000, Erro: 0.24998332699904566
+Época 2500, Erro: 0.24990788130875027
+Época 3000, Erro: 0.2498123892918797
+Época 3500, Erro: 0.2496365924125848
+Época 4000, Erro: 0.2491961266098596
+Época 4500, Erro: 0.2476447293846793
+Época 5000, Erro: 0.24027336121620352
+Época 5500, Erro: 0.21658978685396962
+Época 6000, Erro: 0.18776954298827644
+Época 6500, Erro: 0.16375882153812654
+Época 7000, Erro: 0.1412696937609877
+Época 7500, Erro: 0.11518345986687155
+Época 8000, Erro: 0.08228105036911008
+Época 8500, Erro: 0.05258285163020894
+Época 9000, Erro: 0.034650807564340226
+Época 9500, Erro: 0.024669551651184608
+Entrada: [0 0], Saída Prevista: [0.]
+Entrada: [0 1], Saída Prevista: [1.]
+Entrada: [1 0], Saída Prevista: [1.]
+Entrada: [1 1], Saída Prevista: [0.]
+
+Execução 5 - Neurônios: 2, Learning rate: 0.5, Épocas: 5000
+Época 0, Erro: 0.2521595739155652
+Época 500, Erro: 0.2498979886886973
+Época 1000, Erro: 0.20246413420868048
+Época 1500, Erro: 0.14349795034297563
+Época 2000, Erro: 0.12604574922517509
+Época 2500, Erro: 0.11742176371359303
+Época 3000, Erro: 0.11211137901277586
+Época 3500, Erro: 0.10840557793126973
+Época 4000, Erro: 0.10562205296595684
+Época 4500, Erro: 0.10342658492205478
+Entrada: [0 0], Saída Prevista: [0.]
+Entrada: [0 1], Saída Prevista: [1.]
+Entrada: [1 0], Saída Prevista: [1.]
+Entrada: [1 1], Saída Prevista: [1.]
